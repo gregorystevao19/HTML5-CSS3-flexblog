@@ -49,7 +49,3 @@ O objetivo deste projeto é consolidar o aprendizado de Flexbox, uma poderosa fe
 ## 🌟 Inspirado por
 
 Este projeto foi inspirado no curso [CSS Flexbox da Origamid](https://www.origamid.com/curso/css-flexbox/), que oferece uma introdução completa e prática ao Flexbox.
-
-## 🔗 Links
-
-- [Origamid - Curso CSS Flexbox](https://www.origamid.com/curso/css-flexbox/)
