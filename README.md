@@ -1,7 +1,3 @@
-Aqui está um modelo de README para o seu projeto:
-
----
-
 # 📄 Landing Page com Flexbox
 
 Este projeto é uma landing page desenvolvida para colocar em prática os conceitos aprendidos no estudo do CSS Flexbox. Ele foi construído com base no projeto do curso [CSS Flexbox da Origamid](https://www.origamid.com/curso/css-flexbox/).
