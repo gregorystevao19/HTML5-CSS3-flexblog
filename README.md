@@ -24,10 +24,18 @@ O objetivo deste projeto é consolidar o aprendizado de Flexbox, uma poderosa fe
 
 ## 📦 Como Utilizar
 
+**Acesse diretamente a página do projeto em produção em:**
+
+- [HTML5-CSS3-flexblog](https://gregorystevao19.github.io/HTML5-CSS3-flexblog/)
+
+---
+
+**Para rodar o projeto localmente, siga os passos abaixo:**
+
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/gregorystevao19/HTML5-CSS3-flexblog.git
    ```
 
 2. **Acesse o diretório do projeto:**
